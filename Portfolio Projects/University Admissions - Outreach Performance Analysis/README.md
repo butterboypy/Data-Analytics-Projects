@@ -1,7 +1,3 @@
-This version keeps your entire report intact, word-for-word, while applying Markdown formatting to ensure it is clean, professional, and readable for recruiters viewing your GitHub README.
-
----
-
 # University Admissions: Strategic Conversion & Operational Efficiency Report
 
 ### **Client Background**
