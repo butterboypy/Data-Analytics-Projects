@@ -1,6 +1,7 @@
 <img width="1055" height="428" alt="Screenshot 2026-03-09 221427" src="https://github.com/user-attachments/assets/46716e40-4d8c-44e4-af82-2a0af7f120f5" />
+
 <p align="center">
-  <img src="width="1055" height="428" alt="Screenshot 2026-03-09 221427" src="https://github.com/user-attachments/assets/46716e40-4d8c-44e4-af82-2a0af7f120f5"" alt="University Admissions Report Header" width="100%">
+  <img src="https://github.com/user-attachments/assets/46716e40-4d8c-44e4-af82-2a0af7f120f5" alt="University Admissions Report Header" width="100%">
 </p>
 ---
 
