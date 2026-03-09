@@ -77,9 +77,9 @@ This report outreach over 15000+ unique applicants and make calls over 33000+ to
 #### **Outreach & Enrollment Dynamics**
 
 1. **Pre & Post Admission - 2023 & 2024:**
-* **Pre-Admission Efficiency:** Top-of-funnel engagement with new applicants demonstrates superior conversion, yielding significant enrollment volume with lower relative effort.
-* **Post-Admission Diminishing Returns:** Massive outreach volume in post-admission fails to drive proportional enrollment.
-* **Conversion Barriers:** Stagnation in post-admission results is attributed to external factors like visa delays, competitive offers, and unresolved technical queries.
+** **Pre-Admission Efficiency:** Top-of-funnel engagement with new applicants demonstrates superior conversion, yielding significant enrollment volume with lower relative effort.
+** **Post-Admission Diminishing Returns:** Massive outreach volume in post-admission fails to drive proportional enrollment.
+** **Conversion Barriers:** Stagnation in post-admission results is attributed to external factors like visa delays, competitive offers, and unresolved technical queries.
 
 
 2. **Monthly Enrollment Trends:**
