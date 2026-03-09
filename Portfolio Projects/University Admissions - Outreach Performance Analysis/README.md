@@ -38,27 +38,27 @@ This report outreach over 15000+ unique applicants and make calls over 33000+ to
 #### **Strategic Roadmap: Refined & Focused**
 
 1. **Outreach & Enrollment**
-* **Insight:** Conversions happen early; post-admission efforts are stalled by external delays.
-* **Shift:** Prioritize top-of-funnel engagement over chasing admitted leads.
-* **Action:** Sync staff to peak hours (10 AM – 7 PM) and adopt a year-round "Diversified Cycle."
+ * **Insight:** Conversions happen early; post-admission efforts are stalled by external delays.
+ * **Shift:** Prioritize top-of-funnel engagement over chasing admitted leads.
+ * **Action:** Sync staff to peak hours (10 AM – 7 PM) and adopt a year-round "Diversified Cycle."
 
 
 2. **Market Performance**
-* **Insight:** 70% volume is tied to the "Big Three," while high-yield markets like South Korea & Turkey are underfunded.
-* **Shift:** Diversify into developed markets (USA, Spain) to mitigate concentration risk.
-* **Action:** Reallocate budget from low-conversion zones (Iran, Pakistan) to high-yield regions (Turkey, South Korea).
+ * **Insight:** 70% volume is tied to the "Big Three," while high-yield markets like South Korea & Turkey are underfunded.
+ * **Shift:** Diversify into developed markets (USA, Spain) to mitigate concentration risk.
+ * **Action:** Reallocate budget from low-conversion zones (Iran, Pakistan) to high-yield regions (Turkey, South Korea).
 
 
 3. **Campaign Evaluation**
-* **Insight:** 57% of outreach yielded zero enrollments, while the best campaign (AND23) was under-utilized.
-* **Shift:** Scale the "AND23" blueprint (10.17% conversion).
-* **Action:** Cap resources for underperforming segments (DNA24, FA24DNA) to stop resource drain.
+ * **Insight:** 57% of outreach yielded zero enrollments, while the best campaign (AND23) was under-utilized.
+ * **Shift:** Scale the "AND23" blueprint (10.17% conversion).
+ * **Action:** Cap resources for underperforming segments (DNA24, FA24DNA) to stop resource drain.
 
 
 4. **Agent & Talent Optimization**
-* **Insight:** Missing documentation (8,000+ "No Remarks") and high escalation rates indicate operational leakage.
-* **Shift:** Transition high-volume callers to the "High-Velocity" efficiency model.
-* **Action:** Enforce strict CRM logging and deploy "Senior Closers" to clear the 1,100+ lead backlog.
+ * **Insight:** Missing documentation (8,000+ "No Remarks") and high escalation rates indicate operational leakage.
+ * **Shift:** Transition high-volume callers to the "High-Velocity" efficiency model.
+ * **Action:** Enforce strict CRM logging and deploy "Senior Closers" to clear the 1,100+ lead backlog.
 
 
 
